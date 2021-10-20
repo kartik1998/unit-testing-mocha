@@ -1,4 +1,4 @@
-# Mocha---sample-test-cases
+# Unit Testing with Mocha
 
 This is a sample repo created for unit testing beginners. The link to the corresponding video tutorial series that you should visit to understand the concepts, is given in the end of description section.
 
